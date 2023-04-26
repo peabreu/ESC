@@ -1,5 +1,6 @@
 Small script to generate the basis and ECP parts for a GAMESS input file.
-``` $BASIS 
+```
+ $BASIS 
   basnam(1)= basH, ...
  $END
  
