@@ -19,5 +19,5 @@ for l in linhas:
   linha = symb + "-ecp none"
   print(linha)
   basis = basis + "bas" + symb + ", "
-print(basis)
+print(basis[:-2])
 ficheiro.close()
